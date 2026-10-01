@@ -1,0 +1,9 @@
+3d-force-graph 1.80.0 browser distribution
+
+Package: https://www.npmjs.com/package/3d-force-graph
+Source: https://registry.npmjs.org/3d-force-graph/-/3d-force-graph-1.80.0.tgz
+License: MIT; see 3d-force-graph-MIT.txt
+Vendored file: assets/00-3d-force-graph-1.80.0.min.js
+Vendored file SHA-512: 09745ac1dc0c087c4e66d3c5f8e2ae0f2387942275622a8fef600c64158271d913a9a185b51f38fe765c151e650e80ca448a84b905aec7ee96a9fe8d936cae26
+
+This is the upstream minified UMD browser bundle from the published npm package. The bundle includes its browser runtime dependencies.
